@@ -44,6 +44,7 @@
 
 - 業務利用したことがあるツール/ミドルウェア
   - docker
+  - memcached
   - syslog
   - apache
   - nginx
@@ -136,3 +137,6 @@
 #### 無線基地局の通信制御ソフトウェア開発（客先常駐）
 - 移動端末の位置管理機能の設計/開発
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NDEyNzMzMjNdfQ==
+-->
